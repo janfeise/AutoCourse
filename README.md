@@ -1,5 +1,9 @@
 # 知到弹题自动关闭
 
+## 效果演示
+
+![sample](pic/sample.gif)
+
 ## 使用说明
 
 <img src="pic/logo-1731500583745-1.png" alt="logo" style="zoom: 150%;" />
@@ -41,7 +45,7 @@
 	<center>
 	    <img src="pic/image-20241113193241046.png" alt="image-20241113193241046" style="zoom:50%;" />
 	</center>
-
+	
 	
 
 	<center>
@@ -58,7 +62,7 @@
 ## Q&A 常见问题
 
 1. 手机系统不支持软件auto.js
-  可以查看[github文档](https://github.com/kkevsekk1/AutoX?tab=readme-ov-file)，或者下载安卓模拟器
+    可以查看[github文档](https://github.com/kkevsekk1/AutoX?tab=readme-ov-file)，或者下载安卓模拟器
 
 2. 知到需完成登录
 
@@ -79,7 +83,7 @@
       <img src="pic/image-20241113202053456.png" alt="image-20241113202053456" style="zoom: 80%;" />
   </center>
 
-  
+
 
 
 
