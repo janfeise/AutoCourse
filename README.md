@@ -2,7 +2,7 @@
 
 ## 效果演示
 
-![sample](pic/sample.gif)
+<img src="pic/sample.gif" alt="sample" style="width:50%;" />
 
 ## 使用说明
 
@@ -15,7 +15,7 @@
 2. 打开权限
 	auto.js运行
 
-	<img src="pic/Screenshot_20241113_191444.jpg" alt="Screenshot_20241113_191444" style="zoom:50%;" />
+	<img src="pic/Screenshot_20241113_191444.jpg" alt="Screenshot_20241113_191444" style="width:50%;" />
 	
 3. 导入脚本
 
@@ -31,7 +31,7 @@
 	
 	
 	<center>
-	    <img src="pic/image-20241113192607272.png" alt="image-20241113192607272" style="zoom:50%;" />
+	    <img src="pic/image-20241113192607272.png" alt="image-20241113192607272" style="width:25%;" />
 	</center>
 	
 	找到Download
@@ -43,13 +43,13 @@
 	进入后找到QQ（或者微信）就可以看到对应的脚步文件了
 
 	<center>
-	    <img src="pic/image-20241113193241046.png" alt="image-20241113193241046" style="zoom:50%;" />
+	    <img src="pic/image-20241113193241046.png" alt="image-20241113193241046" style="width:25%;" />
 	</center>
 	
 	
 
 	<center>
-	    <img src="pic/image-20241113195357899.png" alt="image-20241113195357899" style="zoom:80%;" />
+	    <img src="pic/image-20241113195357899.png" alt="image-20241113195357899" style="width:25%;" />
 	</center>
 	
 	
@@ -69,18 +69,18 @@
 3. 定时任务添加：找到脚本，点击最右侧
 
   <center>
-      <img src="pic/image-20241113201011713.png" alt="image-20241113201011713" style="zoom:67%;" />
+      <img src="pic/image-20241113201011713.png" alt="image-20241113201011713" style="width:25%;" />
   </center>
 
   如果定时任务没有运行，可能auto.js权限没有打开（解决方法一：你打开auto.js软件，挂载后台运行）
   打开权限：（确保已打开无障碍权限）
 
   <center>
-      <img src="pic/image-20241113201846700.png" alt="image-20241113201846700" style="zoom:67%;" />
+      <img src="pic/image-20241113201846700.png" alt="image-20241113201846700" style="width:25%;" />
   </center>
 
   <center>
-      <img src="pic/image-20241113202053456.png" alt="image-20241113202053456" style="zoom: 80%;" />
+      <img src="pic/image-20241113202053456.png" alt="image-20241113202053456" style="width: 25%;" />
   </center>
 
 
