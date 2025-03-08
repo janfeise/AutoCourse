@@ -2,7 +2,7 @@
 
 ## 效果演示
 
-![sample](pic/sample.gif)
+<img src="pic/sample.gif" alt="sample" style="zoom:25%;" />
 
 ## 使用说明
 
